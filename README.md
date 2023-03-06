@@ -1,4 +1,4 @@
-# github-pages
+# A Testing Repo for GitHub Pages
 
 A basic splash page for testing out the GitHub Pages feature (free hosting).
 
