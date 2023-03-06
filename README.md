@@ -1,6 +1,6 @@
 # github-pages
 
-A basic splash page for testing out the GitHub pages feature.
+A basic splash page for testing out the GitHub Pages feature (free hosting).
 
 This page is available to view at [https://codeadamca.github.io/github-pages/](https://codeadamca.github.io/github-pages/).
 
