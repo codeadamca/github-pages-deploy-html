@@ -1,0 +1,11 @@
+
+# GitHub Pages will automically append .html is missing
+# This .htaccess will achieve the same result if deplyed to standard hosting
+
+RewriteEngine on
+
+RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^ %{REQUEST_URI}.html [NC,L]
