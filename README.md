@@ -2,7 +2,7 @@
 
 A basic splash page for testing out the GitHub Pages feature (free hosting).
 
-This page is available to view at [https://codeadamca.github.io/github-pages/](https://codeadamca.github.io/github-pages/) or a the custom domain [http://githubpages.codeadam.ca/](http://githubpages.codeadam.ca/).
+This page is available to view at [https://codeadamca.github.io/github-pages/](https://codeadamca.github.io/github-pages/) or a the custom domain [http://github-pages.codeadam.ca/](http://github-pages.codeadam.ca/).
 
 ## Requirements:
 
