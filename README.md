@@ -9,9 +9,7 @@ This page is available to view at [https://codeadamca.github.io/github-pages/](h
 [GitHib Pages] allows you to deploy your static HTML, JavaScript, and CSS pages to a GitHub or custom domain. To deploy a repository follow these steps:
 
 1. Create a new standard repository, let's assume it's named ```github-pages```: 
-
 ![New Repository](https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-new-repo.png)
-
 - Give the repot the name ```github-pages```
 - Give the repo a brief description ```Deploying a static page using GitHub Pages.```
 - For the rest, just leave the defaults
@@ -51,9 +49,7 @@ $ git push origin main
 5. Using the browser, navigate back to ```githib-pages``` repo, click on the ```settings``` tab, and then ```Pages```.
 
 6. Choose ```Deploy from branch```, the branch name and folder you want to deploy, then click save:
-
 ![GitHub Pages](https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-pages.png)
-
 7. Wait for a minute or two and then the GitHub URL will be functional. The URL will be:
 
 ```
