@@ -67,6 +67,8 @@ You can use a custom domain (or subdomain) you have registered from a domain nam
 185.199.111.153
 ```
 
+In my domain name provider the settings looks like this:
+![DNS Settings]([https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-new-repo.png](https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-dns.png))
 For more information on setting up your custom doamin checkout the [GitHub Documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
 
 ## Requirements:
