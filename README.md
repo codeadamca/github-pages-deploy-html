@@ -52,6 +52,7 @@ $ git push origin main
 
 6. Choose ```Deploy from branch```, the branch name and folder you want to deploy, then click save:
 
+![GitHub Pages](https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-pages.png)
 
 7. Wait for a minute or two and then the GitHub URL will be functional. The URL will be:
 
@@ -61,7 +62,16 @@ http://<REPO_NAME>.<GITHUB_USERNAME>.ca/
 
 ## Custom Domain
 
+You can use a custom domain (or subdomain) you have registered from a domain name provider. Log in to your domain name provider and navigate to your domain name DNS settings. Add four A records pointing the domain to GitHub:
 
+```
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+```
+
+For more information on setting up your custom doamin checkout the [GitHub Documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
 
 ## Requirements:
 
