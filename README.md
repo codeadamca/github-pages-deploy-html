@@ -15,6 +15,7 @@ This page is available to view at [https://codeadamca.github.io/github-pages/](h
 - Give the repot the name ```github-pages```
 - Give the repo a brief description ```Deploying a static page using GitHub Pages.```
 - For the rest, just leave the defaults
+- Click ```Create repository```
 
 2. Using the terminal clone the repo:
 
@@ -38,6 +39,29 @@ $ git clone https://github.com/codeadamca/github-pages
 </body>
 </html>
 ```
+
+4. Push the changes to your GitHub repo:
+
+```
+$ git add .
+$ fit commit -m "Added home page"
+$ git push origin main
+```
+
+5. Using the browser, navigate back to ```githib-pages``` repo, click on the ```settings``` tab, and then ```Pages```.
+
+6. Choose ```Deploy from branch```, the branch name and folder you want to deploy, then click save:
+
+
+7. Wait for a minute or two and then the GitHub URL will be functional. The URL will be:
+
+```
+http://<REPO_NAME>.<GITHUB_USERNAME>.ca/
+```
+
+## Custom Domain
+
+
 
 ## Requirements:
 
