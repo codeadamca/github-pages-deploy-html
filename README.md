@@ -72,6 +72,7 @@ For more information on setting up your custom doamin checkout the [GitHub Docum
 ## Requirements:
 
 * [GitHib Pages](https://pages.github.com/)
+* [GitHub Custom Domain Documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
