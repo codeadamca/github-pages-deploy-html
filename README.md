@@ -49,7 +49,7 @@ $ git push origin main
 5. Using the browser, navigate back to ```githib-pages``` repo, click on the ```settings``` tab, and then ```Pages```.
 
 6. Choose ```Deploy from branch```, the branch name and folder you want to deploy, then click save:
-![GitHub Pages](https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-pages.png)
+![GitHub Pages](https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-dns.png)
 7. Wait for a minute or two and then the GitHub URL will be functional. The URL will be:
 
 ```
