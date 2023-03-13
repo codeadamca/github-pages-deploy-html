@@ -10,13 +10,13 @@ This page is available to view at [https://codeadamca.github.io/github-pages/](h
 
 1. Create a new standard repository, let's assume it's named ```github-pages```: 
 
-
+![https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-new-repo.png]
 
 - Give the repot the name ```github-pages```
 - Give the repo a brief description ```Deploying a static page using GitHub Pages.```
 - For the rest, just leave the defaults
 
-2. Using teh terminal clone the repo:
+2. Using the terminal clone the repo:
 
 ```
 $ git clone https://github.com/codeadamca/github-pages
