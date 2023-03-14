@@ -62,7 +62,13 @@ http://<REPO_NAME>.<GITHUB_USERNAME>.ca/
 
 ## Custom Domain
 
-You can use a custom domain (or subdomain) you have registered from a domain name provider. Log in to your domain name provider and navigate to your domain name DNS settings. Add four A records pointing the domain to GitHub:
+You can use a custom domain (or subdomain) you have registered from a domain name provider. 
+
+Go back to the repo settings and choose ```Pages```. Enter the custom domain, choose whether or not to ```Enforce HTTPS```, and click ```Save```:
+
+
+
+Log in to your domain name provider and navigate to your domain name DNS settings. Add four A records pointing the domain to GitHub:
 
 ```
 185.199.108.153
