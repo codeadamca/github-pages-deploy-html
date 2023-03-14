@@ -66,7 +66,7 @@ You can use a custom domain (or subdomain) you have registered from a domain nam
 
 Go back to the repo settings and choose ```Pages```. Enter the custom domain, choose whether or not to ```Enforce HTTPS```, and click ```Save```:
 
-
+![Custom Domain](https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-custom.png)
 
 Log in to your domain name provider and navigate to your domain name DNS settings. Add four A records pointing the domain to GitHub:
 
