@@ -2,7 +2,7 @@
 
 A basic splash page for testing out the GitHub Pages feature (free hosting).
 
-This page is available to view at [https://codeadamca.github.io/github-pages/](https://codeadamca.github.io/github-pages/) or a the custom domain [http://github-pages.codeadam.ca/](http://github-pages.codeadam.ca/).
+This page is available to view at [https://codeadamca.github.io/github-pages-deploy-html/](https://codeadamca.github.io/github-pages-deploy-html/) or a the custom domain [http://githubpages.codeadam.ca/](http://githubpages.codeadam.ca/).
 
 ## Deploay a Static Page to GitHub Pages
 
@@ -12,7 +12,7 @@ This page is available to view at [https://codeadamca.github.io/github-pages/](h
 
 ![New Repository](https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-new-repo.png)
 
-- Give the repot the name ```github-pages```
+- Give the repo the name ```github-pages-deploy-html```
 - Give the repo a brief description ```Deploying a static page using GitHub Pages.```
 - For the rest, just leave the defaults
 - Click ```Create repository```
@@ -20,10 +20,10 @@ This page is available to view at [https://codeadamca.github.io/github-pages/](h
 2. Using the terminal clone the repo:
 
 ```
-$ git clone https://github.com/codeadamca/github-pages
+$ git clone https://github.com/codeadamca/github-pages-deploy-html
 ```
 
-3. Open the new new ```github-pages``` folder using your IDE of choice. I use Visual Studio Code. Add an ```index.html``` and add some basic HTML content:
+3. Open the new `github-pages-deploy-html` folder using your IDE of choice. I use Visual Studio Code. Add an ```index.html``` and add some basic HTML content:
 
 ```html
 <!DOCTYPE html>
@@ -48,11 +48,11 @@ $ fit commit -m "Added home page"
 $ git push origin main
 ```
 
-5. Using the browser, navigate back to ```githib-pages``` repo, click on the ```settings``` tab, and then ```Pages```.
+5. Using the browser, navigate back to ```githib-pages-deploy-html``` repo, click on the ```settings``` tab, and then ```Pages```.
 
 6. Choose ```Deploy from branch```, the branch name and folder you want to deploy, then click save:
 
-![GitHub Pages](https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-pages.png)
+![GitHub Pages](https://raw.githubusercontent.com/codeadamca/github-pages-deploy-html/main/screenshot-pages.png)
 
 7. Wait for a minute or two and then the GitHub URL will be functional. The URL will be:
 
@@ -66,7 +66,7 @@ You can use a custom domain (or subdomain) you have registered from a domain nam
 
 Go back to the repo settings and choose ```Pages```. Enter the custom domain, choose whether or not to ```Enforce HTTPS```, and click ```Save```:
 
-![Custom Domain](https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-custom.png)
+![Custom Domain](https://raw.githubusercontent.com/codeadamca/github-pages-deploy-html/main/screenshot-custom.png)
 
 Log in to your domain name provider and navigate to your domain name DNS settings. Add four A records pointing the domain to GitHub:
 
@@ -79,7 +79,7 @@ Log in to your domain name provider and navigate to your domain name DNS setting
 
 In my domain name provider the settings looks like this:
 
-![DNS Settings](https://raw.githubusercontent.com/codeadamca/github-pages/main/screenshot-dns.png)
+![DNS Settings](https://raw.githubusercontent.com/codeadamca/github-pages-deploy-html/main/screenshot-dns.png)
 
 For more information on setting up your custom doamin checkout the [GitHub Documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
 
