@@ -11,14 +11,14 @@ A basic splash page for testing out the GitHub Pages feature (free hosting).
 
 [GitHib Pages] allows you to deploy your static HTML, JavaScript, and CSS pages to a GitHub or custom domain. To deploy a repository follow these steps:
 
-1. Create a new standard repository, let's assume it's named ```github-pages```: 
+1. Create a new standard repository, let's assume it's named `github-pages`: 
 
     ![New Repository](_readme/screenshot-new-repo.png)
 
-    - Give the repo the name ```github-pages-deploy-html```
-    - Give the repo a brief description ```Deploying a static page using GitHub Pages.```
+    - Give the repo the name `github-pages-deploy-html`
+    - Give the repo a brief description `Deploying a static page using GitHub Pages.`
     - For the rest, just leave the defaults
-    - Click ```Create repository```
+    - Click `Create repository`
 
 2. Using the terminal clone the repo:
 
@@ -26,7 +26,7 @@ A basic splash page for testing out the GitHub Pages feature (free hosting).
     $ git clone https://github.com/codeadamca/github-pages-deploy-html
     ```
 
-3. Open the new `github-pages-deploy-html` folder using your IDE of choice. I use Visual Studio Code. Add an ```index.html``` and add some basic HTML content:
+3. Open the new `github-pages-deploy-html` folder using your IDE of choice. I use Visual Studio Code. Add an `index.html` and add some basic HTML content:
 
     ```html
     <!DOCTYPE html>
@@ -51,9 +51,9 @@ A basic splash page for testing out the GitHub Pages feature (free hosting).
     $ git push origin main
     ```
 
-5. Using the browser, navigate back to ```githib-pages-deploy-html``` repo, click on the ```settings``` tab, and then ```Pages```.
+5. Using the browser, navigate back to `githib-pages-deploy-html` repo, click on the `settings` tab, and then `Pages`.
 
-6. Choose ```Deploy from branch```, the branch name and folder you want to deploy, then click save:
+6. Choose `Deploy from branch`, the branch name and folder you want to deploy, then click save:
 
     ![GitHub Pages](_readme/screenshot-pages.png)
 
@@ -67,7 +67,7 @@ A basic splash page for testing out the GitHub Pages feature (free hosting).
 
 You can use a custom domain (or subdomain) you have registered from a domain name provider. 
 
-Go back to the repo settings and choose ```Pages```. Enter the custom domain, choose whether or not to ```Enforce HTTPS```, and click ```Save```:
+Go back to the repo settings and choose `Pages`. Enter the custom domain, choose whether or not to `Enforce HTTPS`, and click `Save`:
 
 ![Custom Domain](_readme/screenshot-custom.png)
 
