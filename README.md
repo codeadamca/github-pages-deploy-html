@@ -23,7 +23,7 @@ A basic splash page for testing out the GitHub Pages feature (free hosting).
 2. Using the terminal clone the repo:
 
     ```
-    $ git clone https://github.com/codeadamca/github-pages-deploy-html
+    git clone https://github.com/codeadamca/github-pages-deploy-html
     ```
 
 3. Open the new `github-pages-deploy-html` folder using your IDE of choice. I use Visual Studio Code. Add an `index.html` and add some basic HTML content:
@@ -46,9 +46,9 @@ A basic splash page for testing out the GitHub Pages feature (free hosting).
 4. Push the changes to your GitHub repo:
 
     ```
-    $ git add .
-    $ fit commit -m "Added home page"
-    $ git push origin main
+    git add .
+    fit commit -m "Added home page"
+    git push origin main
     ```
 
 5. Using the browser, navigate back to `githib-pages-deploy-html` repo, click on the `settings` tab, and then `Pages`.
