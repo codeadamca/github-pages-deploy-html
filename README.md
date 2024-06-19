@@ -4,8 +4,6 @@ A basic splash page for testing out the GitHub Pages feature (free hosting).
 
 > This page is available to view at  
 > [https://codeadamca.github.io/github-pages-deploy-html/](https://codeadamca.github.io/github-pages-deploy-html/)  
-> Or a the custom domain  
-> [http://githubpages.codeadam.ca/](http://githubpages.codeadam.ca/).
 
 ## Deploy a Static Page to GitHub Pages
 
