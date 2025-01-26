@@ -91,6 +91,7 @@ For more information on setting up your custom doamin checkout the [GitHub Docum
 * [GitHib Pages](https://pages.github.com/)
 * [GitHub - Custom Domain Documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
